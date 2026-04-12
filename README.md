@@ -1,2 +1,2 @@
 # CMPT-733
-[Spring 2025] Contains assignments.
+[Big Data Lab II] Contains assignments from Spring 2025.
